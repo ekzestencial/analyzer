@@ -7,6 +7,18 @@
     <groupId>testLaboratory</groupId>
     <artifactId>analyzer</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <dependencies>
+<dependency>
+  <groupId>org.slf4j</groupId>
+  <artifactId>slf4j-simple</artifactId>
+  <version>1.7.21</version>
+</dependency>
+        <dependency>
+    <groupId>org.jsoup</groupId>
+    <artifactId>jsoup</artifactId>
+    <version>1.11.3</version>
+</dependency>
+    </dependencies>
 
-    
+
 </project>
